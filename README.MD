@@ -5,4 +5,4 @@ Pour utiliser ce fichier:
   2. Copier le fichier dans un repertoire sÃparÃ©
   3. ExÃcuter la commande : vagrant up dans ce rÃ©pertoire
   4. Enjoy
-  5. Feed bask via un pull request please as soon as possible
+  5. Feed bask via un pull request please as soon as possible !
